@@ -6,4 +6,4 @@ git clone https://github.com/Sakibfreetools/SAKIB
 
 cd SAKIB
 
-python NAYAN.py
+pythonnsmsmsm
